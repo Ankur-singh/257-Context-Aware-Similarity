@@ -25,7 +25,7 @@ def train_val_split(df, val_prop=0.25):
 
 
 def split_data(input_path):
-    path = input_path.parent()
+    path = input_path.parent
     train_path = path/'train_df.csv'
     valid_path = path/'valid_df.csv'
     
