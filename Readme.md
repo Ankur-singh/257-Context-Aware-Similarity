@@ -9,3 +9,7 @@ We used the [US patent phrase to phrase matching]( https://www.kaggle.com/compet
 python prepare_data.py data/train.csv
 ```
 
+## Implementation
+
+- [Cross Encoder](./cross_encoder_HF.ipynb)
+- [Bi Encoder](./bi_encoder_ST.ipynb)
